@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8768c5d.css",
-    "main.js": "/static/js/main.a0aea275.js",
-    "index.html": "/index.html",
-    "main.b8768c5d.css.map": "/static/css/main.b8768c5d.css.map",
-    "main.a0aea275.js.map": "/static/js/main.a0aea275.js.map"
+    "main.css": "/FLUTTER-101/flutter-101/static/css/main.b8768c5d.css",
+    "main.js": "/FLUTTER-101/flutter-101/static/js/main.a35f8219.js",
+    "index.html": "/FLUTTER-101/flutter-101/index.html",
+    "main.b8768c5d.css.map": "/FLUTTER-101/flutter-101/static/css/main.b8768c5d.css.map",
+    "main.a35f8219.js.map": "/FLUTTER-101/flutter-101/static/js/main.a35f8219.js.map"
   },
   "entrypoints": [
     "static/css/main.b8768c5d.css",
-    "static/js/main.a0aea275.js"
+    "static/js/main.a35f8219.js"
   ]
 }
